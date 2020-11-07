@@ -1,0 +1,210 @@
+@media (min-width:320px) and (max-width:575px) {
+    /*header Section Start*/
+    #header {
+        padding: 6px 0;
+    }
+    .logo {
+        width: 45%;
+    }
+    .menu {
+        display: none;
+    }
+    /*Header Section End*/
+    /*Banner Section Start*/
+    .banner-main {
+        width: 90%;
+        padding: 30px 0px;
+    }
+    .banner-main h1 {
+        margin-bottom: 15px;
+        font-size: 20px;
+    }
+    .banner-main p {
+        margin-bottom: 2px;
+        font-size: 10px;
+    }
+    .banner-main button {
+        margin-top: 10px;
+        padding: 6px 12px;
+        font-size: 10px;
+    }
+    /*Banner Section End*/
+    /*Work Section Start*/
+    #work {
+        padding: 50px 0px;
+    }
+    .work-text {
+        width: 100%;
+    }
+    .work-text h1 {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .work-text p {
+        font-size: 12px;
+        text-align: justify;
+        line-height: 1.5;
+    }
+    .work-service {
+        margin-top: 50px;
+    }
+    .service {
+        margin-bottom: 30px;
+        margin-left: 20px;
+        padding: 25px 15px;
+        width: 90%;
+    }
+    .service:last-child {
+        margin-bottom: 0;
+    }
+    .service img {
+        width: 35%;
+    }
+    .service h3 {
+        margin-top: 20px;
+        font-size: 15px;
+    }
+    /*Work Section End*/
+    /*Learn Section Start*/
+    #learn {
+        padding: 50px 0px;
+    }
+    .learn-text {
+        width: 100%;
+    }
+    .learn-text h1 {
+        font-size: 17px;
+    }
+    .learn-text p {
+        font-size: 12px;
+        text-align: justify;
+        margin: 20px 0;
+    }
+    .learn-text button {
+        padding: 6px 14px;
+        font-size: 10px;
+    }
+    .learn-video {
+        margin-top: 25px;
+        width: 100%;
+    }
+    .learn-video video {
+        width: 100%;
+    }
+    /*Learn Section End*/
+    /*Feature Section Start*/
+    #feature {
+        padding: 50px 0px;
+    }
+    .feature-services {
+        margin: 50px 0;
+    }
+    .top,
+    .bottom {
+        margin-bottom: 35px;
+        width: 100%;
+    }
+    .top-service {
+        margin-left: 3%;
+        padding: 18px 12px;
+        width: 94%;
+    }
+    .top-service:first-child {
+        margin-left: 3%;
+    }
+    .box-two {
+        box-shadow: 0 0 2px 0 grey;
+    }
+    .top-service img {
+        width: 30%;
+    }
+    .top-service h2 {
+        margin-top: 20px;
+        font-size: 14px;
+    }
+    .top-service p {
+        margin-top: 15px;
+        font-size: 12px;
+        line-height: 1.5;
+    }
+    .feature-button button {
+        padding: 10px 18px;
+        font-size: 10px;
+    }
+    /*Feature Section End*/
+    /* Footer-feature Section Start */
+    #contact {
+        padding: 50px 0;
+    }
+    .left-area {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .left-area h1 {
+        text-align: center;
+    }
+    .contact-us ul li h3 {
+        font-size: 12px;
+    }
+    .contact-us ul li:first-child i {
+        font-size: 20px;
+    }
+    .contact-us ul li:last-child i {
+        font-size: 20px;
+    }
+    .social {
+        margin-top: 25px;
+    }
+    .social ul li {
+        padding: 10px 12px;
+        margin-right: 6px;
+    }
+    .social ul li i {
+        font-size: 16px;
+    }
+    .social ul li:first-child {
+        padding: 10px 16px;
+    }
+    .social ul li:nth-child(4) {
+        padding: 10px 16px;
+    }
+    .middle-area {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .middle-area h1 {
+        text-align: center;
+    }
+    .links ul li a {
+        font-size: 14px;
+    }
+    .right-area {
+        width: 100%;
+    }
+    .right-area h1 {
+        text-align: center;
+    }
+    .right-area p {
+        font-size: 14px;
+    }
+    .form-inline input {
+        padding: 4px 6px;
+    }
+    .form-inline button {
+        padding: 6px 6px;
+    }
+    /* Footer-feature Section End */
+    /* Footer Section Start */
+    #footer {
+        padding: 15px 0;
+    }
+    .footer-text {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .footer-text h3 {
+        font-size: 10px;
+        line-height: 1.5;
+    }
+    /* Footer Section End */
+}
